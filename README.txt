@@ -2,11 +2,11 @@ Number and name of feature: ________________________________
 
 Estimate of time needed to complete: _3____
 
-Start time: __10:31___-11:1
+Start time: __10:31
 
-Finish time: _____
+Finish time: _1:PM____
 
-Actual time needed to complete: _____
+Actual time needed to complete: __3___
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
