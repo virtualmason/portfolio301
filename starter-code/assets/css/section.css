@@ -1,6 +1,8 @@
 
 /* Sections/Article */
-
+.maroon {
+	color: #764D57;
+}
 section, article {
   margin-bottom: 3em;
 }
@@ -42,6 +44,7 @@ section, article {
 		.image.fit {
 			display: block;
 			width: 100%;
+			max-height: 105px;
 		}
 
 		.image.featured {
